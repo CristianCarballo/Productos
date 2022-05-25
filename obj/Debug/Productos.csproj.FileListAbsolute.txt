@@ -1,0 +1,9 @@
+c:\users\alumno.gabinete\documents\visual studio 2015\Projects\Productos\Productos\bin\Debug\Productos.exe.config
+c:\users\alumno.gabinete\documents\visual studio 2015\Projects\Productos\Productos\bin\Debug\Productos.exe
+c:\users\alumno.gabinete\documents\visual studio 2015\Projects\Productos\Productos\bin\Debug\Productos.pdb
+c:\users\alumno.gabinete\documents\visual studio 2015\Projects\Productos\Productos\obj\Debug\Productos.csprojResolveAssemblyReference.cache
+c:\users\alumno.gabinete\documents\visual studio 2015\Projects\Productos\Productos\obj\Debug\Productos.frmProductos.resources
+c:\users\alumno.gabinete\documents\visual studio 2015\Projects\Productos\Productos\obj\Debug\Productos.Properties.Resources.resources
+c:\users\alumno.gabinete\documents\visual studio 2015\Projects\Productos\Productos\obj\Debug\Productos.csproj.GenerateResource.Cache
+c:\users\alumno.gabinete\documents\visual studio 2015\Projects\Productos\Productos\obj\Debug\Productos.exe
+c:\users\alumno.gabinete\documents\visual studio 2015\Projects\Productos\Productos\obj\Debug\Productos.pdb
